@@ -7,8 +7,8 @@ import './styles.scss';
 
 const rootDiv = document.getElementById('reactapp');
 
-ReactDOM.render(<App />, rootDiv)
+ReactDOM.render(<App />, rootDiv);
 
 if (module.hot) {
-	module.hot.accept();
+    module.hot.accept();
 }
