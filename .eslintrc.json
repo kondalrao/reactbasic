@@ -18,13 +18,14 @@
     "plugins": ["react"],
     "rules": {
         "indent": ["error", 4],
+        "react/jsx-indent-props": ["off"],
+        "comma-dangle": ["error", "always-multiline"],
         "react/jsx-indent": ["error", 4],
         "linebreak-style": ["error", "unix"],
-        "quotes": ["warn", "single"],
+        "quote-props": ["error", "consistent"],
+        "jsx-quotes": ["error", "consistent"],
         "semi": ["error", "always"],
-        "comma-dangle": ["error", "always"],
         "no-cond-assign": ["error", "always"],
-
         "no-console": "off"
     }
 }
