@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "Kondal Rao Komaragiri <kondal04@gmail.com>",
+  "homepage": "https://kondalrao.github.io/reactbasic/",
   "license": "MIT",
   "scripts": {
     "start": "parcel src/index.html",
