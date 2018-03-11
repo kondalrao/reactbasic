@@ -23,7 +23,7 @@
         "react/jsx-indent": ["error", 4],
         "linebreak-style": ["error", "unix"],
         "quote-props": ["error", "consistent"],
-        "jsx-quotes": ["error", "consistent"],
+        "jsx-quotes": ["error", "prefer-single"],
         "semi": ["error", "always"],
         "no-cond-assign": ["error", "always"],
         "no-console": "off"
